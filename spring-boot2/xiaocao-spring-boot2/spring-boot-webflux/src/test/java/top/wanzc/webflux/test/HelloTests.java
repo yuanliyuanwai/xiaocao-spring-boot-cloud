@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.webflux.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.boot.test.autoconfigure.web.reactive.WebFluxTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.reactive.server.WebTestClient;
 
-import in.xiaocao.web.HelloController;
+import top.wanzc.webflux.web.HelloController;
 
 @RunWith(SpringRunner.class)
 @WebFluxTest(controllers = HelloController.class)
