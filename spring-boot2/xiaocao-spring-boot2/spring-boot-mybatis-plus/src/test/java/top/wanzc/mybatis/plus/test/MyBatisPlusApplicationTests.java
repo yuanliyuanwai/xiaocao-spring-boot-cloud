@@ -1,11 +1,11 @@
-package in.xiaocao;
+package top.wanzc.mybatis.plus.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.MyBatisPlusApplication;
+import top.wanzc.mybatis.plus.MyBatisPlusApplication;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = MyBatisPlusApplication.class)

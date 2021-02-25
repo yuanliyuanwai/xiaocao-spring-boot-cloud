@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.mybatis.plus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

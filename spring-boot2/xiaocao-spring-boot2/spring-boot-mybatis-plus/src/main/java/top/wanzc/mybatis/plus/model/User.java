@@ -1,4 +1,4 @@
-package in.xiaocao.model;
+package top.wanzc.mybatis.plus.model;
 
 public class User {
     private Long id;

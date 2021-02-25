@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.mybatis.plus.test;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
@@ -6,9 +6,9 @@ import com.baomidou.mybatisplus.core.toolkit.CollectionUtils;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 
-import in.xiaocao.MyBatisPlusApplication;
-import in.xiaocao.mapper.UserMapper;
-import in.xiaocao.model.User;
+import top.wanzc.mybatis.plus.MyBatisPlusApplication;
+import top.wanzc.mybatis.plus.mapper.UserMapper;
+import top.wanzc.mybatis.plus.model.User;
 
 import org.junit.Assert;
 import org.junit.Test;
