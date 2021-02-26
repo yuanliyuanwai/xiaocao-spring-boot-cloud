@@ -1,4 +1,4 @@
-package top.wanzc.spring.boot.redis;
+package top.wanzc.spring.boot.redis.test;
 
 import java.util.concurrent.TimeUnit;
 

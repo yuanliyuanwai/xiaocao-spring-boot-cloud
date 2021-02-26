@@ -1,4 +1,4 @@
-package top.wanzc.spring.boot.redis;
+package top.wanzc.spring.boot.redis.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
