@@ -1,4 +1,4 @@
-package in.xiaocao.web;
+package top.wanzc.spring.boot.mybatis.xml.web;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.xiaocao.mapper.UserMapper;
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.mybatis.xml.mapper.UserMapper;
+import top.wanzc.spring.boot.mybatis.xml.model.User;
 
 @RestController
 public class UserController {

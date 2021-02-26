@@ -1,8 +1,8 @@
-package in.xiaocao.mapper;
+package top.wanzc.spring.boot.mybatis.xml.mapper;
 
 import java.util.List;
 
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.mybatis.xml.model.User;
 
 public interface UserMapper {
 	

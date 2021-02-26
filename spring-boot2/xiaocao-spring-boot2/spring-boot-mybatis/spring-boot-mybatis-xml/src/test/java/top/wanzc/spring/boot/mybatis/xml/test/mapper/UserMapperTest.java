@@ -1,4 +1,4 @@
-package in.xiaocao.mapper;
+package top.wanzc.spring.boot.mybatis.xml.test.mapper;
 
 import java.util.List;
 
@@ -9,9 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.enums.UserSexEnum;
-import in.xiaocao.mapper.UserMapper;
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.mybatis.xml.enums.UserSexEnum;
+import top.wanzc.spring.boot.mybatis.xml.mapper.UserMapper;
+import top.wanzc.spring.boot.mybatis.xml.model.User;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

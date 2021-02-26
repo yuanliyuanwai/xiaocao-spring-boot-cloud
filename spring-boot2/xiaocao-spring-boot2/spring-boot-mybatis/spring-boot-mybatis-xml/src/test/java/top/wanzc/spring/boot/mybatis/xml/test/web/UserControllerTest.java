@@ -1,4 +1,4 @@
-package in.xiaocao.web;
+package top.wanzc.spring.boot.mybatis.xml.test.web;
 
 
 

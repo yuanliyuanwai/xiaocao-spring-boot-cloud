@@ -1,8 +1,8 @@
-package in.xiaocao.model;
+package top.wanzc.spring.boot.mybatis.xml.model;
 
 import java.io.Serializable;
 
-import in.xiaocao.enums.UserSexEnum;
+import top.wanzc.spring.boot.mybatis.xml.enums.UserSexEnum;
 
 public class User implements Serializable {
 

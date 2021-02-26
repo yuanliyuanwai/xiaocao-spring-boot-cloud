@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.spring.boot.mybatis.xml;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
