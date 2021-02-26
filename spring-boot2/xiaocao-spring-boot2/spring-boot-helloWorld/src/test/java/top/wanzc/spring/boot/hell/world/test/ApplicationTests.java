@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.spring.boot.hell.world.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

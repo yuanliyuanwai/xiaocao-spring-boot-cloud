@@ -1,4 +1,4 @@
-package in.xiaocao.controller;
+package top.wanzc.spring.boot.hell.world.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
