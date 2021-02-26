@@ -1,4 +1,4 @@
-package top.wanzc.commandLineRunner.runner;
+package top.wanzc.spring.boot.commandLineRunner.runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;
