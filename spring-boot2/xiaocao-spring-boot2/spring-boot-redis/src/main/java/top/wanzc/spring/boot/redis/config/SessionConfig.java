@@ -1,4 +1,4 @@
-package in.xiaocao.config;
+package top.wanzc.spring.boot.redis.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;

@@ -1,4 +1,4 @@
-package in.xiaocao.model;
+package top.wanzc.spring.boot.redis.model;
 
 import java.io.Serializable;
 

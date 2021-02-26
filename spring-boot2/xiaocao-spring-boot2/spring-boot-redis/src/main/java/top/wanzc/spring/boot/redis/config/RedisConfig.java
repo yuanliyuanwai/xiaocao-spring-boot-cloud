@@ -1,4 +1,4 @@
-package in.xiaocao.config;
+package top.wanzc.spring.boot.redis.config;
 
 import java.lang.reflect.Method;
 
@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableCaching
-public class RedisConfig extends CachingConfigurerSupport{
+public class RedisConfig extends CachingConfigurerSupport {
 	
 	@Bean
 	public KeyGenerator keyGenerator() {

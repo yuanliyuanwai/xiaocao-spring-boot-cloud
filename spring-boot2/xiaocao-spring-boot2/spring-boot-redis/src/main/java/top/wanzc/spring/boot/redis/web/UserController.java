@@ -1,10 +1,10 @@
-package in.xiaocao.web;
+package top.wanzc.spring.boot.redis.web;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.redis.model.User;
 
 import javax.servlet.http.HttpSession;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package in.xiaocao;
+package top.wanzc.spring.boot.redis;
 
 import java.util.concurrent.TimeUnit;
 
@@ -12,7 +12,7 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.redis.model.User;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
