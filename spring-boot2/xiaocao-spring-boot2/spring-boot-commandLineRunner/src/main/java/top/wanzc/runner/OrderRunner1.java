@@ -1,15 +1,15 @@
-package in.xiaocao.runner;
+package top.wanzc.runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
 @Component
-@Order(2)
-public class OrderRunner2 implements CommandLineRunner {
+@Order(1)
+public class OrderRunner1 implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("The OrderRunner2 start to initialize ...");
+        System.out.println("The OrderRunner1 start to initialize ...");
     }
 }

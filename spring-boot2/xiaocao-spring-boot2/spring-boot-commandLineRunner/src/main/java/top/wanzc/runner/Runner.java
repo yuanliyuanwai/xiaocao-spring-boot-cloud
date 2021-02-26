@@ -1,4 +1,4 @@
-package in.xiaocao.runner;
+package top.wanzc.runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
