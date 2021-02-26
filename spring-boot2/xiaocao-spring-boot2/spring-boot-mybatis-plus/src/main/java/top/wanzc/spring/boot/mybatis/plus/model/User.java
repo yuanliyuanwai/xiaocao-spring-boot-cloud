@@ -1,4 +1,4 @@
-package top.wanzc.mybatis.plus.model;
+package top.wanzc.spring.boot.mybatis.plus.model;
 
 public class User {
     private Long id;

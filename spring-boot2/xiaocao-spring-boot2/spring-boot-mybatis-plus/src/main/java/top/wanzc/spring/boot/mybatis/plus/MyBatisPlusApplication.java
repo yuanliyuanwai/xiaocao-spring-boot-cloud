@@ -1,4 +1,4 @@
-package top.wanzc.mybatis.plus;
+package top.wanzc.spring.boot.mybatis.plus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package top.wanzc.mybatis.plus.config;
+package top.wanzc.spring.boot.mybatis.plus.config;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.mybatis.spring.annotation.MapperScan;

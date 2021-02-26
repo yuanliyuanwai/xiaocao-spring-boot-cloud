@@ -1,4 +1,4 @@
-package top.wanzc.mybatis.plus.test;
+package top.wanzc.spring.boot.mybatis.plus.test;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
@@ -6,9 +6,9 @@ import com.baomidou.mybatisplus.core.toolkit.CollectionUtils;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 
-import top.wanzc.mybatis.plus.MyBatisPlusApplication;
-import top.wanzc.mybatis.plus.mapper.UserMapper;
-import top.wanzc.mybatis.plus.model.User;
+import top.wanzc.spring.boot.mybatis.plus.MyBatisPlusApplication;
+import top.wanzc.spring.boot.mybatis.plus.mapper.UserMapper;
+import top.wanzc.spring.boot.mybatis.plus.model.User;
 
 import org.junit.Assert;
 import org.junit.Test;
