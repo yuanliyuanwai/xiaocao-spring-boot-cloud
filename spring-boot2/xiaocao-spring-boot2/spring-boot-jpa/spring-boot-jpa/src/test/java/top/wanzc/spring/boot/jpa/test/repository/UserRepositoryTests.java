@@ -1,4 +1,4 @@
-package in.xiaocao.repository;
+package top.wanzc.spring.boot.jpa.test.repository;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -13,7 +13,8 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.jpa.model.User;
+import top.wanzc.spring.boot.jpa.repository.UserRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

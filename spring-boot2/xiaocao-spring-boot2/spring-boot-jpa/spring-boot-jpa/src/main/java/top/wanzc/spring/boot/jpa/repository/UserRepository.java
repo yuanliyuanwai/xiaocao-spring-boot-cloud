@@ -1,4 +1,4 @@
-package in.xiaocao.repository;
+package top.wanzc.spring.boot.jpa.repository;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.transaction.annotation.Transactional;
 
-import in.xiaocao.model.User;
+import top.wanzc.spring.boot.jpa.model.User;
 
 
 public interface UserRepository extends JpaRepository<User, Long> {

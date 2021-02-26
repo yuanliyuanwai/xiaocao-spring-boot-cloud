@@ -1,4 +1,4 @@
-package in.xiaocao.model;
+package top.wanzc.spring.boot.jpa.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

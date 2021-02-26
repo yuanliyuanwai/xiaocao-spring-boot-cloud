@@ -1,4 +1,4 @@
-package in.xiaocao.repository;
+package top.wanzc.spring.boot.jpa.test.repository;
 
 import javax.annotation.Resource;
 
@@ -11,9 +11,9 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.model.UserDetail;
-import in.xiaocao.param.UserDetailParam;
-import in.xiaocao.service.UserDetailService;
+import top.wanzc.spring.boot.jpa.model.UserDetail;
+import top.wanzc.spring.boot.jpa.param.UserDetailParam;
+import top.wanzc.spring.boot.jpa.service.UserDetailService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

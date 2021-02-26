@@ -1,4 +1,4 @@
-package in.xiaocao.repository;
+package top.wanzc.spring.boot.jpa.repository;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;
 
-import in.xiaocao.model.UserDetail;
-import in.xiaocao.model.UserInfo;
+import top.wanzc.spring.boot.jpa.model.UserDetail;
+import top.wanzc.spring.boot.jpa.model.UserInfo;
 
 
 public interface UserDetailRepository extends JpaSpecificationExecutor<UserDetail>,JpaRepository<UserDetail, Long>  {

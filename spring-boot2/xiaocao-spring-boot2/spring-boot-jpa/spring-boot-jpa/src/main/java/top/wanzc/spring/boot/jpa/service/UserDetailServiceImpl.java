@@ -1,10 +1,10 @@
-package in.xiaocao.service;
+package top.wanzc.spring.boot.jpa.service;
 
 import com.mysql.cj.util.StringUtils;
 
-import in.xiaocao.model.UserDetail;
-import in.xiaocao.param.UserDetailParam;
-import in.xiaocao.repository.UserDetailRepository;
+import top.wanzc.spring.boot.jpa.model.UserDetail;
+import top.wanzc.spring.boot.jpa.param.UserDetailParam;
+import top.wanzc.spring.boot.jpa.repository.UserDetailRepository;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

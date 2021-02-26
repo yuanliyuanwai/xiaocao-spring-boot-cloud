@@ -1,4 +1,4 @@
-package in.xiaocao.param;
+package top.wanzc.spring.boot.jpa.param;
 
 public class UserDetailParam {
     private String userId;

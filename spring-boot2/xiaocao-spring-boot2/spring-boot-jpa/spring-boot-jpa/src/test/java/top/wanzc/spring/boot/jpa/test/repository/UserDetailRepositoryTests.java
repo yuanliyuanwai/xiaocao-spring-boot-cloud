@@ -1,4 +1,4 @@
-package in.xiaocao.repository;
+package top.wanzc.spring.boot.jpa.test.repository;
 
 import java.util.List;
 
@@ -9,9 +9,11 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import in.xiaocao.model.Address;
-import in.xiaocao.model.UserDetail;
-import in.xiaocao.model.UserInfo;
+import top.wanzc.spring.boot.jpa.model.Address;
+import top.wanzc.spring.boot.jpa.model.UserDetail;
+import top.wanzc.spring.boot.jpa.model.UserInfo;
+import top.wanzc.spring.boot.jpa.repository.AddressRepository;
+import top.wanzc.spring.boot.jpa.repository.UserDetailRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
