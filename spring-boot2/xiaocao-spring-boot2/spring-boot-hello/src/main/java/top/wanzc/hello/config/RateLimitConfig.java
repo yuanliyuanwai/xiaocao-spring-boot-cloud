@@ -1,4 +1,4 @@
-package in.xiaocao.config;
+package top.wanzc.hello.config;
 
 import java.util.HashMap;
 import java.util.List;
@@ -8,9 +8,9 @@ import java.util.stream.Stream;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-import in.xiaocao.dto.IPPolicy;
-import in.xiaocao.dto.Policy;
-import in.xiaocao.dto.UrlPolicy;
+import top.wanzc.hello.dto.IPPolicy;
+import top.wanzc.hello.dto.Policy;
+import top.wanzc.hello.dto.UrlPolicy;
 
 @Component
 @ConfigurationProperties(prefix = "xiaocao.rate.limit")

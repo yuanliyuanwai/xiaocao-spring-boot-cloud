@@ -1,4 +1,4 @@
-package in.xiaocao.dto;
+package top.wanzc.hello.dto;
 
 public class Cat {
 	

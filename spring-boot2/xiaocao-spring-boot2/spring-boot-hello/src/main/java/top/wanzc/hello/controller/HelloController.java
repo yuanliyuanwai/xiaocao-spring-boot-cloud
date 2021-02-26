@@ -1,4 +1,4 @@
-package in.xiaocao.controller;
+package top.wanzc.hello.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import in.xiaocao.config.RateLimitConfig;
-import in.xiaocao.dto.Cat;
+import top.wanzc.hello.config.RateLimitConfig;
+import top.wanzc.hello.dto.Cat;
 
 @RestController
 public class HelloController {

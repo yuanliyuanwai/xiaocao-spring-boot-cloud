@@ -1,10 +1,10 @@
-package in.xiaocao.config;
+package top.wanzc.hello.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import in.xiaocao.dto.Cat;
-import in.xiaocao.dto.Mouse;
+import top.wanzc.hello.dto.Cat;
+import top.wanzc.hello.dto.Mouse;
 
 @Configuration
 public class HelloConfig {
